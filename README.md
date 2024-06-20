@@ -2,9 +2,11 @@
 
 PySimpleSniffer is a simple and easy-to-use network sniffer written in Python using the `scapy` library. It allows you to listen on a specified port on a selected network interface and print captured packets to the screen or save them to a file.
 
+### Actual version: 1.1.0
+
 ## Features
 
-- Capture network packets on a specified port.
+- Capture network packets on a specified port, host and protocol.
 - Print captured packets to the console.
 - Save captured packets to a file.
 
